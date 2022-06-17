@@ -1,0 +1,18 @@
+{
+  "id" : "fd113c12-664f-4b53-b44e-bfc530643084",
+  "name" : "Add-user",
+  "request" : {
+    "urlPath" : "/users",
+    "method" : "POST"
+  },
+  "response" : {
+    "status" : 201,
+    "body" : "\nBody content for stub 1\n\n",
+    "headers" : { }
+  },
+  "uuid" : "fd113c12-664f-4b53-b44e-bfc530643084",
+  "persistent" : true,
+  "priority" : 5,
+  "insertionIndex" : 0,
+  "postServeActions" : [ ]
+}

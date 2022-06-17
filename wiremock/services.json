@@ -1,0 +1,13 @@
+{
+  "services" : [ {
+    "id" : "j95kl",
+    "name" : "bne-token",
+    "port" : 8011,
+    "rootDir" : "bne-token"
+  }, {
+    "id" : "g3z44",
+    "name" : "bne-subscription-api",
+    "port" : 8012,
+    "rootDir" : "bne-subscription-api"
+  } ]
+}

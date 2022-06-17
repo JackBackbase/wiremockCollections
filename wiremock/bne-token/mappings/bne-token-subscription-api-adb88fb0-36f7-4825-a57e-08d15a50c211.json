@@ -1,0 +1,20 @@
+{
+  "id" : "adb88fb0-36f7-4825-a57e-08d15a50c211",
+  "name" : "Get-token",
+  "request" : {
+    "urlPath" : "/v1/token",
+    "method" : "POST"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "\n{\n  \"access_token\": \"nMJM0G3aYTRGHkPGYBkyWdz00F0i\",\n  \"expires_in\": 3599,\n  \"token_type\": \"Bearer\",\n  \"scope\": \"bne-services:subscription:create-user-subscription\"\n}\n\n",
+    "headers" : {
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "adb88fb0-36f7-4825-a57e-08d15a50c211",
+  "persistent" : true,
+  "priority" : 5,
+  "insertionIndex" : 0,
+  "postServeActions" : [ ]
+}
